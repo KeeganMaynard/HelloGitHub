@@ -1,0 +1,9 @@
+git commit -m "text description"
+	git commit allows you to confirm the changes you made to a file, as a snapshot, which can then be pushed to the remote repository. 
+	The quotation marks are a breif description of the change(s).
+git pull
+	git pull allows you to update your files based on changes between the local files and those in the repository. 
+	This basically updates your files to match those in the repository. 
+git checkout branchName
+	git checkout allows you to change the branch you are working on or create a new branch. 
+	This is often done to avoid breaking code that works while trying to implement a new feature into the program. 
